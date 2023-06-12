@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daisy/static/css/main.0c3de9be.css",
+    "main.js": "/daisy/static/js/main.0cb15f82.js",
+    "static/js/787.d6fcfa42.chunk.js": "/daisy/static/js/787.d6fcfa42.chunk.js",
+    "index.html": "/daisy/index.html",
+    "main.0c3de9be.css.map": "/daisy/static/css/main.0c3de9be.css.map",
+    "main.0cb15f82.js.map": "/daisy/static/js/main.0cb15f82.js.map",
+    "787.d6fcfa42.chunk.js.map": "/daisy/static/js/787.d6fcfa42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c3de9be.css",
+    "static/js/main.0cb15f82.js"
+  ]
+}
